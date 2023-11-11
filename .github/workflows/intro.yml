@@ -5,7 +5,10 @@ on:
   schedule: [{cron: "0 * * * *"}]
   # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
-  push: {branches: ["master", "main"]}
+    inputs:
+      run:
+        description: 'Run Intro'
+        required: true
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
