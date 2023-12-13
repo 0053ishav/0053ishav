@@ -11,7 +11,7 @@
 
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/ishav-singh)
 
-![Metrics](https://metrics.lecoq.io/0007ishav)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
