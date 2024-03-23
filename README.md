@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at **CloudEQ**
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **ServiceNow**
 
 - 👨‍💻 All of my projects are available at [My portfolio Website](https://portfolio-eta-ivory.vercel.app/)
 
