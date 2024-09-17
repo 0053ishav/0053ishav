@@ -5,7 +5,7 @@
 
 - 🏢 I’m currently working at **CloudEQ**
 
-- 💻 I’m currently learning [ServiceNow](https://www.servicenow.com/)
+- 💻 I’m currently learning [NextJS](https://vercel.com/docs)
   
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/0007ishav)
 
