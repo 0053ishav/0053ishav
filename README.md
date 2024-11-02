@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ishav</h1>
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=I'm+a+Full+Stack+Developer;I+💙+React+Next.js+Three.js+and+ServiceNow!&center=true&width=500&height=50"></p>
+
 <h3 align="center">A passionate ServiceNow Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0007ishav&label=Profile%20views&color=0e75b6&style=flat" alt="0007ishav" /> </p>
