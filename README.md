@@ -5,8 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0007ishav&label=Profile%20views&color=0e75b6&style=flat" alt="0007ishav" /> </p>
 
-- 🏢 I’m currently working at **CloudEQ**
-
+<!--- 🏢 I’m currently working at **CloudEQ**
+-->
 - 💻 I’m currently learning [NextJS](https://vercel.com/docs)
   
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/0007ishav)
