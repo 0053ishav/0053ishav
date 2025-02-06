@@ -9,13 +9,13 @@
 -->
 - 💻 I’m currently learning [NextJS](https://vercel.com/docs)
   
-- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/0007ishav)
+- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/0053ishav)
 
-- 📝 Documentation of all the tools & softwares. [Documentation](https://github.com/0007ishav/Documentation)
+- 📝 Documentation of all the tools & softwares. [Documentation](https://github.com/0053ishav/Documentation)
 
-- 💬 I regularly write articles on [Blogs](https://strngeblogs.hashnode.dev/)
+- 💬 I regularly write articles on [Blogs](https://strngeblogs.hashnode.dev)
 
-- 👨‍💻 All of my projects are available at [My portfolio Website](https://portfolio-eta-ivory.vercel.app/)
+- 👨‍💻 All of my projects are available at [My portfolio Website](https://3dportfolio.ishav.space)
 
 
 
