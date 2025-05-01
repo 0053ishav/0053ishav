@@ -3,7 +3,22 @@
   Hi there, I'm Ishav
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+<!-- GITHUB PROFILE GREETING -->
+<div align="center">
+  <a href="https://greetme.ishav.space" target="_blank">
+    <img src="https://greetme.ishav.space/api/greeting?style=dark&message=Hello,+human.+This+is+Ishav+API+reporting+for+greeting+duty!" alt="Funny GitHub Greeting" />
+  </a>
+  <br />
+  <sub>
+    <a href="https://greetme.ishav.space" target="_blank">
+      <code><b>Greet API</b></code>
+    </a> — because even robots need social skills 🤖
+  </sub>
+  <br /><br />
+</div>
 
+<!-- GITHUB PROFILE GREETING -->
+ 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&width=435&lines=Full+Stack+Developer;ServiceNow+Engineer;Next.js+%7C+Three.js+Lover;Let's+build+something+amazing!">
 </p>
