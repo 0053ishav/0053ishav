@@ -1,12 +1,13 @@
-
+<!--
 <h1 align="center">
   Hi there, I'm Ishav
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+-->
 <!-- GITHUB PROFILE GREETING -->
 <div align="center">
   <a href="https://greetme.ishav.space" target="_blank">
-    <img src="https://greetme.ishav.space/api/greeting?style=dark&message=Hello,+human.+This+is+Ishav+API+reporting+for+greeting+duty!" alt="Funny GitHub Greeting" />
+    <img src="https://greetme.ishav.space/api/greeting?style=dark&message=Dear,Dev.+This+is+Ishav+API+reporting+for+greeting+duty!" alt="Funny GitHub Greeting" />
   </a>
   <br />
   <sub>
