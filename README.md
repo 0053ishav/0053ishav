@@ -7,7 +7,7 @@
 <!-- GITHUB PROFILE GREETING -->
 <div align="center">
   <a href="https://greetme.ishav.space" target="_blank">
-    <img src="https://greetme.ishav.space/api/greeting?style=dark&message=Dear,Dev.+This+is+Ishav+API+reporting+for+greeting+duty!" alt="Funny GitHub Greeting" />
+    <img src="https://greetme.ishav.space/api/greeting?name=Fellow+Devs&style=dark&message=Dear,Devs.+This+is+Ishav+API+reporting+for+greeting+duty!" alt="Funny GitHub Greeting" />
   </a>
   <br />
   <sub>
