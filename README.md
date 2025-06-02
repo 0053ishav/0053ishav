@@ -34,9 +34,9 @@
 
 ---
 
-- 💻 I’m currently learning [NextJS](https://strngeblogs.hashnode.dev/getting-started-with-nextjs-a-beginners-guide)
+- 💻 I’m currently learning [NextJS](https://blogs.ishav.space/getting-started-with-nextjs-a-beginners-guide)
 - 🧑‍💻 Working on mastering **Web Experiences** 🌐
-- 📝 Writing at [Blogs](https://strngeblogs.hashnode.dev)
+- 📝 Writing at [Blogs](https://blogs.ishav.space)
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/0053ishav)
 - 🔥 Documentation hub: [Documentation](https://github.com/0053ishav/Documentation)
 
